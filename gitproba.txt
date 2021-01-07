@@ -3,4 +3,5 @@ Szia!
 Bonjour!
 Hola!
 Ola!
+Hallo!
 
